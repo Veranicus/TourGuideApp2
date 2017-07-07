@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tour guide app</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="biggest_building_fragment">"Biggest buildings"</string>
+    <string name="monuments_fragment">"Monuments"</string>
+    <string name="restaurants_fragment">"Restaurants"</string>
+    <string name="theaters_fragment">"Theaters"</string>
+    <string name="biggest_building_fragment_the_shard">"The Shard"</string>
+    <string name="biggest_building_fragment_one_canada_square">"One Canada Square"</string>
+    <string name="biggest_building_fragment_heron_tower">"Heron Tower"</string>
+    <string name="biggest_building_fragment_122_leadenhall_street">"122 Leadenhall Street"</string>
+</resources>
